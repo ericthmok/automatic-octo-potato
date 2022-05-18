@@ -14,7 +14,7 @@
 
 ![alt text](assets/images/Screenshot.png)
 
-The URL of the Github repository: 
+The URL of the Github repository: https://ericthmok.github.io/automatic-octo-potato/
 
 ## License
 MIT License
